@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/oskolnet-landing-pages/static/css/main.01e78506.css",
+    "main.js": "/oskolnet-landing-pages/static/js/main.c2bd7924.js",
+    "static/media/slider-item.png": "/oskolnet-landing-pages/static/media/slider-item.1c336131f215df8606ba.png",
+    "static/media/Circe-Light.woff": "/oskolnet-landing-pages/static/media/Circe-Light.3c3fa6f71682507b5a76.woff",
+    "static/media/Circe-Bold.woff": "/oskolnet-landing-pages/static/media/Circe-Bold.fca9743700608e1abf6a.woff",
+    "static/media/Circe-Regular.woff": "/oskolnet-landing-pages/static/media/Circe-Regular.a5168fcec068fa77220a.woff",
+    "static/media/Circe-ExtraBold.woff": "/oskolnet-landing-pages/static/media/Circe-ExtraBold.3606d5d4c3d492c2a613.woff",
+    "static/media/Circe-Thin.woff": "/oskolnet-landing-pages/static/media/Circe-Thin.abb3b6a6f273c61d8ccc.woff",
+    "static/media/Circe-Bold.woff2": "/oskolnet-landing-pages/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
+    "static/media/Circe-Light.woff2": "/oskolnet-landing-pages/static/media/Circe-Light.4e3b6645b8546e044fd1.woff2",
+    "static/media/Circe-Regular.woff2": "/oskolnet-landing-pages/static/media/Circe-Regular.2c54c074533cf5620761.woff2",
+    "static/media/Circe-ExtraBold.woff2": "/oskolnet-landing-pages/static/media/Circe-ExtraBold.41d0f80caec1e985840f.woff2",
+    "static/media/Circe-Thin.woff2": "/oskolnet-landing-pages/static/media/Circe-Thin.f841aa4feba4b0c2b28f.woff2",
+    "index.html": "/oskolnet-landing-pages/index.html",
+    "main.01e78506.css.map": "/oskolnet-landing-pages/static/css/main.01e78506.css.map",
+    "main.c2bd7924.js.map": "/oskolnet-landing-pages/static/js/main.c2bd7924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e78506.css",
+    "static/js/main.c2bd7924.js"
+  ]
+}
